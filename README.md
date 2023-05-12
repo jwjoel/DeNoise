@@ -1,7 +1,5 @@
 # Noise Reduction in Images
 
-Are you wondering how to reduce noise in pictures? You've come to the right place!
-
 ## Overview
 NoiseReduction is a Python program that reduces noise in images using two methods: local averaging and median filtering. The program utilizes matplotlib and numpy to read noisy images (`saltpepper.bmp` and `gaussian.bmp`) and suppress the noise using the mentioned methods.
 
